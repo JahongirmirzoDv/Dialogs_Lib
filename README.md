@@ -4,5 +4,6 @@ dialogs
 
 
 ## add your gradle 
- ``` implementation 'com.github.JahongirmirzoDv:Dialogs_Lib: jitpack version' 
- ``` 
+``` 
+implementation 'com.github.JahongirmirzoDv:Dialogs_Lib: jitpack version' 
+``` 
